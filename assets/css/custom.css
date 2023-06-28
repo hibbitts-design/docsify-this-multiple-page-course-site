@@ -1,0 +1,67 @@
+/*
+===============================================================================================================================
+Put your custom CSS in this file.
+===============================================================================================================================
+*/
+
+/* CSS to better visually match Docsify pages within Canvas LMS (uncomment to use) */
+/*
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body .markdown-section {
+    font-family: "Lato Extended","Lato","Helvetica Neue",Arial,sans-serif;
+    line-height: 1.4;
+    font-size: 16px;
+}
+*/
+
+/* Link colors to match visual styling of SFU Canvas LMS (uncomment to use) */
+/*
+:root {
+    --sidebar-name-color: #A6192E!important;
+    --blockquote-border-color: #A6192E!important;
+    --sidebar-nav-link-color--active: #A6192E!important;
+    --sidebar-nav-link-border-color--active: #A6192E!important;
+    --sidebar-name-margin: 1.5rem -.2rem!important;
+    --sidebar-nav-link-font-weight--active: bold!important;
+    --link-color: #A6192E!important;
+    --pagination-title-color: #A6192E!important;
+}
+*/
+
+/* Link colors to match visual styling of Moodle LMS (uncomment to use) */
+/*
+:root {
+    --navbar-root-color--active: #0F6CBF!important;
+    --blockquote-border-color: #0F6CBF!important;
+    --sidebar-name-color: #0F6CBF!important;
+    --sidebar-nav-link-color--active: #0F6CBF!important;
+    --sidebar-nav-link-border-color--active: #0F6CBF!important;
+    --link-color: #0F6CBF!important;
+    --pagination-title-color: #0F6CBF!important;
+}
+*/
+
+/* Link colors to match visual styling of Sakai LMS (uncomment to use) */
+/*
+:root {
+    --navbar-root-color--active: #0B1660!important;
+    --blockquote-border-color: #0B1660!important;
+    --sidebar-name-color: #0B1660!important;
+    --sidebar-nav-link-color--active: #0B1660!important;
+    --sidebar-nav-link-border-color--active: #0B1660!important;
+    --link-color: #0B1660!important;
+    --pagination-title-color: #0B1660!important;
+}
+*/
+
+/* CSS to better visually match Docsify pages within Sakai LMS (uncomment to use) */
+/*
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+body .markdown-section {
+    font-family: "Open Sans",sans-serif;
+    line-height: 1.3;
+    font-size: 14px;
+}
+*/
