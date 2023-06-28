@@ -1,4 +1,4 @@
-# CPT-363
+# CPT-363 <!-- {docsify-ignore} -->
 
 - [Course Welcome](course-welcome)
 - [Week 1 (May 9 - 15)](module-01)
