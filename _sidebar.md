@@ -1,4 +1,4 @@
-# Docsify-This Course Site
+# CPT-363
 
 - [Course Welcome](course-welcome)
 - [Week 1 (May 9 - 15)](module-01)
