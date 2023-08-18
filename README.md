@@ -32,7 +32,7 @@ You can further customize the appearance of your web page by tapping on the **Sh
 To load the provided example [Docsify custom sidebar](https://docsify.js.org/#/more-pages?id=sidebar), manually add `&loadSidebar=_sidebar.md` to your Docsify-This URL, for example:
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-cmpt-363-222-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md
 
-To load the provided example Docsify custom sidebar along with the [Docsify custom navbar](https://docsify.js.org/#/custom-navbar?id=custom-navbar), manually add `&loadSidebar=_sidebar.md&loadNavbar=_navbar.md` to your Docsify-This URL, for example:
+To load the provided example [Docsify custom sidebar](https://docsify.js.org/#/more-pages?id=sidebar) along with the [Docsify custom navbar](https://docsify.js.org/#/custom-navbar?id=custom-navbar), manually add `&loadSidebar=_sidebar.md&loadNavbar=_navbar.md` to your Docsify-This URL, for example:
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-cmpt-363-222-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md
 
 Docsify-This Examples
