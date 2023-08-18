@@ -32,6 +32,9 @@ You can further customize the appearance of your web page by tapping on the **Sh
 To load the provided example Docsify custom sidebar, manually add `&loadSidebar=_sidebar.md` to your Docsify-This URL, for example:
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-cmpt-363-222-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md
 
+To load the provided example Docsify custom sidebar along with the custom Navbar, manually add `&loadSidebar=_sidebar.md&loadNavbar=_navbar.md` to your Docsify-This URL, for example:
+https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-cmpt-363-222-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md
+
 Docsify-This Examples
 ---
 
