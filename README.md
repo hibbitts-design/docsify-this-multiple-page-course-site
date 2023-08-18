@@ -29,8 +29,8 @@ How to Use
 
 You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
 
-To load the provided example Docsify custom sidebar, manually add `&loadSidebar=_sidebar-with-home.md` to your Docsify-This URL, for example:
-https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-cmpt-363-222-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar-with-home.md
+To load the provided example Docsify custom sidebar, manually add `&loadSidebar=_sidebar.md` to your Docsify-This URL, for example:
+https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-cmpt-363-222-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md
 
 Docsify-This Examples
 ---
