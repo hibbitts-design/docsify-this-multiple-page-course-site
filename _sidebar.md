@@ -11,7 +11,7 @@
 - [![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080)Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)
 - [![Class Discussions Icon](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080)Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)
 - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080)Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)
-- **Template Info**
+- **Docsify-This Template Info**
   - [GitHub Repository](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site)
   - [ReadMe](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/README.md)
 
