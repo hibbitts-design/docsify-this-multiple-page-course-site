@@ -37,7 +37,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 The optional loading of a Docsify custom **Sidebar** and **Navbar** (equivalent to using the URL parameters `loadSidebar` and `loadNavbar`) is also available in the [Docsify-This Advanced Web Page Builder](https://docsify-this.net/?advanced=true).  
 
-Using the ability to change the default values of the Docsify-This Web Page Builder, here are the needed **Sidebar** and **Navbar** options already set - just replace the default Markdown file URL for the **home.md** with your own! https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&sidebar=true&loadSidebar=true&loadNavbar=true
+Using the ability to change the default values of the Docsify-This Web Page Builder, here are the needed **Sidebar** and **Navbar** options already set - just replace the default Markdown file URL for **home.md** with your own! https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&sidebar=true&loadSidebar=true&loadNavbar=true
 
 Docsify-This Examples
 ---
