@@ -25,7 +25,7 @@ How to Use
 
 4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
 
-5. Tap the **View as Standalone Page** button to view your **home.md** Markdown file as a web page 
+5. Tap the **Publish as a Standalone Web Page** button to view your **home.md** Markdown file as a web page 
 
 You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
 
