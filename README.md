@@ -29,6 +29,9 @@ How to Use
 
 6. Select the page options you want (e.g. Docsify Sidebar) and tap the **Publish as a Web Page** button to view your Markdown file as a web page for sharing or embedding
 
+> [!NOTE]
+> For this template to work as designed, choose **Sidebar** for page layout and enable **Load a custom Docsify sidebar** in the **Advanced Web Page Builder Options** section. This will automatically load the custom navigation from `_sidebar.md` instead of manually adding URL parameters.
+
 To edit a file in GitHub, tap the **Pencil icon** (Edit this file) in the upper-right when viewing the file, make your changes, and then tap the **Commit changes...** button to save those changes.  
 
 To load the provided example [Docsify custom sidebar](https://docsify.js.org/#/more-pages?id=sidebar), manually add `&loadSidebar=_sidebar.md` to your published Docsify-This URL, for example:
